@@ -1,4 +1,4 @@
 # Huffman-Text-Compresion
 c++
 
-In str.txt write the text you want to compress and the output is in compresie.txt.
+In str.txt write the text you want to compress and the output is in compresie.txt(delete text inside before run).
